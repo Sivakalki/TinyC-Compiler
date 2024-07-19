@@ -24,7 +24,6 @@ This is the present syntax which is accepted
 Example:
 
  int main(){
-
      int a,b,c;
      a=30;
      b = a+ 56;
