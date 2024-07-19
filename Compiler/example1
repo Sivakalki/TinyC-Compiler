@@ -1,0 +1,9 @@
+int main(){
+int p,q,r,res;
+p=18;
+q=48;
+r=62;
+res=(p+q)*(q/r)-(r*p);
+print res;
+}
+

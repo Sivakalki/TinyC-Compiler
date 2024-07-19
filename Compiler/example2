@@ -1,0 +1,8 @@
+int main(){
+int a,b,c;
+a=48.6;
+b=2.18;
+c=a*b+4.5-2;
+print c;
+}
+

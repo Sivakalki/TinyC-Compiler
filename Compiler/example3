@@ -1,0 +1,8 @@
+int main(){
+double  a,b,c;
+a=5.66;
+b=8.90;
+c=a+b;
+print c;
+}
+

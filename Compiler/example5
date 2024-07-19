@@ -1,0 +1,8 @@
+int main(){
+double x,y,z;
+x=4;
+y=7;
+z=4*x+y/3;
+print z;
+}
+
